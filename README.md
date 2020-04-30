@@ -5,7 +5,7 @@
 1.1 Debian & Ubuntu 用户请运行
 
 ```
-wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/Tangjiajiang12/snell.sh/master/snell.centos.sh
+wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/Tangjiajiang12/snell.sh/master/snell.sh
 chmod +x snell.sh
 ./snell.sh
 ```
@@ -13,7 +13,7 @@ chmod +x snell.sh
 1.2 Centos & RedHat 用户请运行
 
 ```
-wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/Tangjiajiang12/snell.sh/master/snell.centos.sh
+wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/Tangjiajiang12/snell.sh/master/snell.sh
 chmod +x snell.sh
 ./snell.sh
 ```
