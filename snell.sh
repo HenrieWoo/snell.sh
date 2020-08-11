@@ -15,9 +15,9 @@ if [ -f ${CONF} ]; then
   else
   if [ -z ${PSK} ]; then
     PSK=$(tr -dc A-Za-z0-9 </dev/urandom | head -c 16)
-    echo "Using generated PSK: ${jiajiang1314}"
+    echo "Using generated PSK: ${PSK}"
   else
-    echo "Using predefined PSK: ${jiajiang1314}"
+    echo "Using predefined PSK: ${PSK}"
   fi
   mkdir /etc/snell/
   echo "Generating new config..."
