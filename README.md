@@ -40,3 +40,4 @@ wget --no-check-certificate -O uninstall-snell.sh https://raw.githubusercontent.
 chmod +x uninstall-snell.sh
 ./uninstall-snell.sh
 ```
+
