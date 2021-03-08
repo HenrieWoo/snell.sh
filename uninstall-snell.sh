@@ -7,4 +7,3 @@ rm -f /etc/systemd/snell.service
 rm -f /usr/bin/snell-server
 rm -f /etc/snell/snell-server.conf
 rm -rf /etc/snell/
-
